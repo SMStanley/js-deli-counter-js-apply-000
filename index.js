@@ -31,3 +31,4 @@ function deliWheel() {
   return number;  
 }
 var number = 1;
+deliWheel();
