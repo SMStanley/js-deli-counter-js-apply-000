@@ -26,9 +26,4 @@ function takeANumber(line, name){
   
   return "Welcome, " + name + ". You are number" + " " + line.length  + " " + "in line.";
 }
-function deliWheel() {
-   
-  return number;  
-}
-var number = 1;
-deliWheel();
+
